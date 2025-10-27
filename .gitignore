@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+.Python
+build/
+var/
+
+# PyCharm
+.idea/
+.idea_modules/
+
+# VS Code
+.vscode/
+
+# Логи та бази даних
+*.log
+*.sql
+
+# Тимчасові файли
+*.tmp
+*.temp
+.cache/
